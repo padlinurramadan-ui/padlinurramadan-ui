@@ -3,8 +3,10 @@
 # Hi there! 👋 I'm Padli
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="50" /> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17mYDSK4T5iM/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17mYDSK4T5iM/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/tM7mS9uX8oFAn686V6/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/136XN0vtoK3lGo/giphy.gif" width="70">
 </p>
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
