@@ -2,13 +2,14 @@
 
 # Hi there! 👋 I'm Padli
 
-<div align="center">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="50" /> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17mYDSK4T5iM/giphy.gif" width="100">
-</div>
+</p>
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
 
-### My GitHub Stats:
+### 📊 My GitHub Stats:
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=padlinurramadan-ui&show_icons=true&theme=ocean_dark)
 
 ---
@@ -29,4 +30,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=padlinurramadan-ui&color=blue&style=flat-square)
 
 I'm a passionate beginner developer from Indonesia 🇮🇩 currently learning how to build awesome things!
-
