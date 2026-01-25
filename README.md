@@ -2,6 +2,10 @@
 
 # Hi there! 👋 I'm Padli
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17mYDSK4T5iM/giphy.gif" width="100">
+</div>
+
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
 
 ### My GitHub Stats:
