@@ -1,13 +1,15 @@
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="140" align="center" style="border: none;">
-      <img src="profile.png" width="120" height="120" style="border-radius: 50%; display: block;">
+    <td style="border: none; padding: 0;">
+      <img src="profile.png" width="120" height="120" style="display: block;">
     </td>
-    <td width="100%" style="border: none;">
+    <td width="100%" style="border: none; padding: 0;">
       <img src="banner.png" width="100%" height="120" style="display: block;">
     </td>
   </tr>
 </table>
+
+<br/>
 
 # Hi there! 👋 I'm Padli
 
@@ -39,3 +41,5 @@
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=padlinurramadan-ui&color=blue&style=flat-square)
+
+I'm a passionate beginner developer from Indonesia 🇮🇩 currently learning how to build awesome things!
