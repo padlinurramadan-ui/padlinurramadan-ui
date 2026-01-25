@@ -1,13 +1,9 @@
-<table border="0">
-  <tr>
-    <td width="160">
-      <img src="https://github.com/padlinurramadan-ui.png" width="150" style="border-radius: 50%; display: block;">
-    </td>
-    <td width="100%">
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dlyy%20Html&desc=Front-End%20Development&descAlign=53&descAlignY=65" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github.com/padlinurramadan-ui.png" width="120" height="120" align="left" style="border-radius: 50%; margin-right: 15px; border: 3px solid #6e5494;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Dlyy%20Html&desc=Front-End%20Development&descAlign=53&descAlignY=65" width="75%">
+</p>
+
+<br clear="left"/>
 
 # Hi there! 👋 I'm Padli
 
