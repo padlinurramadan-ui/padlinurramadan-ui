@@ -3,10 +3,10 @@
 # Hi there! 👋 I'm Padli
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17mYDSK4T5iM/giphy.gif" width="60">
-  <img src="https://64.media.tumblr.com/tumblr_m99v5m6S7U1r6ao6uo1_400.gif" width="60">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYyeG01cXpndXpndXpndXpndXpndXpndXpndXpndXpndXpndXpndXAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lk/tM7mS9uX8oFAn686V6/giphy.gif" width="70">
-  <img src="https://media.giphy.com/media/136XN0vtoK3lGo/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17mYDSK4T5iM/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuM3ZyeGZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/12fIdS86EBEn6M/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYyeG01cXpndXpndXpndXpndXpndXpndXpndXpndXpndXpndXpndXAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lk/tM7mS9uX8oFAn686V6/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/136XN0vtoK3lGo/giphy.gif" width="60">
 </p>
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
