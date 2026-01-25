@@ -1,6 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dlyy%20Html&desc=Front-End%20Devlopment&descAlign=53&descAlignY=65)
+<p align="left">
+  <img src="https://github.com/padlinurramadan-ui.png" width="150" align="left" style="border-radius: 50%; margin-right: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dlyy%20Html&desc=Front-End%20Development&descAlign=53&descAlignY=65" width="100%">
+</p>
 
-# Hi there! 👋 I'm Padli
+<br clear="left"/> # Hi there! 👋 I'm Padli
 
 <p align="left">
   <img src="luffy.gif" width="80">
