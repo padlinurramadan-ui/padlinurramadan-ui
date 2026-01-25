@@ -1,5 +1,4 @@
-
-<img src="https://header-generator.vercel.app/api/generate?title=PADLI%20NURRAMADAN&subtitle=Informatics%20Engineering&theme=dark" width="100%">
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dlyy%20Html&desc=Front-End%20Devlopment&descAlign=53&descAlignY=65)
 
 # Hi there! 👋 I'm Padli
 
