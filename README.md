@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/render?type=rect&color=gradient&text=PADLI%20WORLD&fontSize=40)
-
 # Hi there! 👋 I'm Padli
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
