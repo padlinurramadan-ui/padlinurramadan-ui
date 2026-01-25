@@ -1,16 +1,15 @@
-<p align="left">
-  <svg width="120" height="120" align="left" style="margin-right: 15px;">
-    <defs>
-      <clipPath id="circleView">
-        <circle cx="60" cy="60" r="60" />
-      </clipPath>
-    </defs>
-    <image width="120" height="120" xlink:href="https://github.com/padlinurramadan-ui.png" clip-path="url(#circleView)" />
-  </svg>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Dlyy%20Html&desc=Front-End%20Development&descAlign=53&descAlignY=65" width="72%">
-</p>
-
-<br clear="left"/>
+<table>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/padlinurramadan-ui">
+        <img src="https://github.com/padlinurramadan-ui.png" width="120" height="120" style="border-radius: 50%; max-width: 100%;">
+      </a>
+    </td>
+    <td width="100%" style="border: none;">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Dlyy%20Html&desc=Front-End%20Development&descAlign=53&descAlignY=65" width="100%">
+    </td>
+  </tr>
+</table>
 
 # Hi there! 👋 I'm Padli
 
@@ -42,5 +41,3 @@
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=padlinurramadan-ui&color=blue&style=flat-square)
-
-I'm a passionate beginner developer from Indonesia 🇮🇩 currently learning how to build awesome things!
