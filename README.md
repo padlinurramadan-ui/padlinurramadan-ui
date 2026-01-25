@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/render?type=soft&color=gradient&text=Padli%20World&fontSize=40)
+![Header](https://capsule-render.vercel.app/render?type=rect&color=gradient&text=PADLI%20WORLD&fontSize=40)
 
 # Hi there! 👋 I'm Padli
 
