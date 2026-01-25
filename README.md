@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Welcome%20to%20Padli's%20World&fontSize=50)
-
+![Header](https://capsule-render.vercel.app/render?type=soft&color=gradient&text=Padli%20World&fontSize=40)
 
 # Hi there! 👋 I'm Padli
 
