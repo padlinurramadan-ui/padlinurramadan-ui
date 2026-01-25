@@ -3,10 +3,10 @@
 # Hi there! 👋 I'm Padli
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="60">
-  <img src="https://media.giphy.com/media/12fIdS86EBEn6M/giphy.gif" width="60">
-  <img src="https://media.giphy.com/media/tM7mS9uX8oFAn686V6/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/136XN0vtoK3lGo/giphy.gif" width="60">
+  <img src="luffy.gif" width="80">
+  <img src="ichigo.gif" width="80">
+  <img src="zenitsu.gif" width="90">
+  <img src="naruto.gif" width="80">
 </p>
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
