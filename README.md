@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Welcome%20to%20Padli's%20World&fontSize=50)
+
+
 # Hi there! 👋 I'm Padli
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
