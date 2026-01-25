@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&text=PADLI%20NURRAMADAN&fontSize=40" width="100%">
+<img src="https://header-generator.vercel.app/api/generate?title=PADLI%20NURRAMADAN&subtitle=Informatics%20Engineering&theme=dark" width="100%">
 
 # Hi there! 👋 I'm Padli
 
