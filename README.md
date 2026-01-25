@@ -1,10 +1,13 @@
-<p align="left">
-  <img src="https://res.cloudinary.com/demo/image/fetch/w_150,h_150,c_fill,f_auto,r_max/https://github.com/padlinurramadan-ui.png" align="left" width="120" height="120" style="margin-right: 15px;">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Dlyy%20Html&desc=Front-End%20Development&descAlign=53&descAlignY=65" width="75%">
-</p>
-
-<br clear="left"/>
+<table border="0">
+  <tr>
+    <td width="140" align="center" style="border: none;">
+      <img src="profile.png" width="120" height="120" style="border-radius: 50%; display: block;">
+    </td>
+    <td width="100%" style="border: none;">
+      <img src="banner.png" width="100%" height="120" style="display: block;">
+    </td>
+  </tr>
+</table>
 
 # Hi there! 👋 I'm Padli
 
