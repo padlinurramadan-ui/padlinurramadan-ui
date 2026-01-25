@@ -1,13 +1,10 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <img src="profile.png" width="120" height="120" style="display: block;">
-    </td>
-    <td width="100%" style="border: none; padding: 0;">
-      <img src="banner.png" width="100%" height="120" style="display: block;">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/profile.png" width="120" height="120" align="left" style="border-radius: 50%; margin-right: 15px;">
+  
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/banner.png" width="70%" height="120">
+</p>
+
+<br clear="left"/>
 
 <br/>
 
