@@ -13,13 +13,6 @@
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
 
-<p align="center">
-  <a href="https://open.spotify.com/track/6Zu7PInu3I78T9v5xQ3N3O"> <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/multo.png" width="400" style="border-radius: 15px; border: 2px solid #1DB954;">
-  </a>
-  <br>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" width="20"> <b>Click to play "Multo" on Spotify</b>
-</p>
-
 ### 📊 My GitHub Stats:
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=padlinurramadan-ui&show_icons=true&theme=ocean_dark)
 
@@ -41,3 +34,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=padlinurramadan-ui&color=blue&style=flat-square)
 
 I'm a passionate beginner developer from Indonesia 🇮🇩 currently learning how to build awesome things!
+
+<p align="center">
+  <a href="https://open.spotify.com/track/6Zu7PInu3I78T9v5xQ3N3O"> <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/multo.png" width="400" style="border-radius: 15px; border: 2px solid #1DB954;">
+  </a>
+  <br>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" width="20"> <b>Click to play "Multo" on Spotify</b>
+</p>
