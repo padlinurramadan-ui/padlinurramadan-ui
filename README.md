@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/banner.png" width="70%">
 </p>
 
 # Hi there! 👋 I'm Padli
