@@ -11,7 +11,11 @@
   <img src="naruto.gif" width="80">
 </p>
 
-![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
+### 🎮 Pacman Contributions
+<p align="left">
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ### 📊 My GitHub Stats:
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=padlinurramadan-ui&show_icons=true&theme=ocean_dark)
