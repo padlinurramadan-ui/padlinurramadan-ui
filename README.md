@@ -14,8 +14,10 @@
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
 
 <p align="center">
-<a href="https://open.spotify.com/track/5uCax9HTlsWo8u99vUvY9S"> <img src="https://spotify-github-profile-omega.vercel.app/api/view?uid=USER_ID_SPOTIFY_LO&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true&bar_color=53b14f&bar_color_cover=false" />
-</a>
+  <a href="https://open.spotify.com/track/6Zu7PInu3I78T9v5xQ3N3O"> <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/multo.png" width="400" style="border-radius: 15px; border: 2px solid #1DB954;">
+  </a>
+  <br>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" width="20"> <b>Click to play "Multo" on Spotify</b>
 </p>
 
 ### 📊 My GitHub Stats:
