@@ -13,6 +13,11 @@
 
 ![Snake animation](https://github.com/padlinurramadan-ui/padlinurramadan-ui/blob/output/github-snake.svg)
 
+<p align="center">
+<a href="https://open.spotify.com/track/5uCax9HTlsWo8u99vUvY9S"> <img src="https://spotify-github-profile-omega.vercel.app/api/view?uid=USER_ID_SPOTIFY_LO&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true&bar_color=53b14f&bar_color_cover=false" />
+</a>
+</p>
+
 ### 📊 My GitHub Stats:
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=padlinurramadan-ui&show_icons=true&theme=ocean_dark)
 
