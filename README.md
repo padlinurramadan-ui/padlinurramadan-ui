@@ -1,15 +1,10 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="120" valign="top" style="border: none;">
-      <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/profile.png" width="120" height="120" style="border-radius: 50%;">
-    </td>
-    <td width="400" valign="top" style="border: none;">
-      <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/banner.png" height="120" style="display: block;">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/profile.png" width="100" height="100" align="left" style="border-radius: 50%; margin-right: 10px;">
+  
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/banner.png" height="100">
+</p>
 
-<br/>
+<br clear="left"/>
 
 # Hi there! 👋 I'm Padli
 
