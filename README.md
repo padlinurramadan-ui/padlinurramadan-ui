@@ -13,7 +13,7 @@
 
 ### 🎮 Pacman Contributions
 <p align="left">
-  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/output/github-snake.svg" alt="Pacman Animation">
 </p>
 
 
