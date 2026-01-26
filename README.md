@@ -11,7 +11,7 @@
   <img src="naruto.gif" width="80">
 </p>
 
-### 🎮 Pacman Contributions
+### 🎮 Snake Contributions
 <p align="left">
   <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/output/github-snake.svg" alt="Pacman Animation">
 </p>
