@@ -2,8 +2,8 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Update setiap 24 jam
-  workflow_dispatch:
+    - cron: "0 */24 * * *" # Berjalan otomatis setiap 24 jam
+  workflow_dispatch: # Agar bisa dijalankan manual kapan saja
 
 jobs:
   generate:
