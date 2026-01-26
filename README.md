@@ -1,10 +1,6 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/profile.png" width="100" height="100" align="left" style="border-radius: 50%; margin-right: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/banner.png" height="100">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/banner.png" width="100%">
 </p>
-
-<br clear="left"/>
 
 # Hi there! 👋 I'm Padli
 
