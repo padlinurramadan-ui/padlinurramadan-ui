@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=padlinurramadan-ui&theme=radical" width="100%">
 </p>
----
+<hr>
 
 ### 🛠 My Skills & Tools:
 <p align="left">
