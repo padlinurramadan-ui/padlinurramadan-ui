@@ -18,7 +18,7 @@
 
 
 ### 📊 My GitHub Stats:
-![Your Stats](https://github-readme-stats.vercel.app/api?username=padlinurramadan-ui&show_icons=true&theme=ocean_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=padlinurramadan-ui&theme=tokyonight&hide_border=true)
 
 ---
 
