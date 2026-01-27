@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/bg.png" height="300" width="170%">
 </p>
 
-# Hi there! 👋 I'm Padli
+# 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚! 👋 𝙄'𝙢 𝙋𝙖𝙙𝙡𝙞# 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚! 👋 𝙄'𝙢 𝙋𝙖𝙙𝙡𝙞
 
 <p align="left">
   <img src="luffy.gif" width="80">
@@ -11,13 +11,13 @@
   <img src="naruto.gif" width="80">
 </p>
 
-### 🎮 Snake Contributions
+### 🎮 𝙎𝙣𝙖𝙠𝙚 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣𝙨
 <p align="left">
   <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/output/github-snake.svg" alt="Pacman Animation">
 </p>
 
 
-### 📊 My GitHub Stats:
+### 📊 𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=padlinurramadan-ui&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
   
@@ -29,14 +29,14 @@
 </p>
 <hr>
 
-### 🛠 My Skills & Tools:
+### 🛠 𝙈𝙮 𝙎𝙠𝙞𝙡𝙡𝙨 & 𝙏𝙤𝙤𝙡𝙨:
 <p align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,androidstudio,mysql,bootstrap,tailwind" />
 </a>
 </p>
 
-### 🤝 Let's Connect:
+### 🤝 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩:
 <p align="left">
 <a href="https://instagram.com/dlyy_html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://wa.me/+6288210850438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
