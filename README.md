@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/main/bg.png" height="300" width="170%">
 </p>
 
-# 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚! 👋 𝙄'𝙢 𝙋𝙖𝙙𝙡𝙞# 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚! 👋 𝙄'𝙢 𝙋𝙖𝙙𝙡𝙞
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Padli" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left">
   <img src="luffy.gif" width="80">
@@ -15,7 +19,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/padlinurramadan-ui/padlinurramadan-ui/output/github-snake.svg" alt="Pacman Animation">
 </p>
-
 
 ### 📊 𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨:
 <p align="center">
